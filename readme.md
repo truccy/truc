@@ -21,5 +21,4 @@ The Journey :
 - Melting and Staking
 - Build
 - Keep Building 🦾
-
-🏆 🏆 🏆 🥇
+- 🏆 🏆 🏆 🥇
