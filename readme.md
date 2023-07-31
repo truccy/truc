@@ -22,3 +22,8 @@ The Journey :
 - Build
 - Keep Building 🦾
 - 🏆 🏆 🏆 🥇
+
+Contact Us:
+📨 email : trucfeb5@gmail.com
+📨 telegram : @truccs
+📨 twitter : @trucfeb5
