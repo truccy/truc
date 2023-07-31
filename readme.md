@@ -23,7 +23,8 @@ The Journey :
 - Keep Building 🦾
 - 🏆 🏆 🏆 🥇
 
-Contact Us:
-📨 email : trucfeb5@gmail.com
-📨 telegram : @truccs
-📨 twitter : @trucfeb5
+<ul>Contact Us:
+<li>📨 email : trucfeb5@gmail.com</li>
+<li>📨 telegram : @truccs</li>
+<li>📨 twitter : @trucfeb5</li>
+</ul>
