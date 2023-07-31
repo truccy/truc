@@ -1,2 +1,2 @@
 TRUC is a communty based meme token on core chain designed by lovers for believers.
- Its bring spirits of core mission as leader of decentralized cryptocurrency and the one which solve thrilema. TRUC spread all facts that has been released and implemented it in such meme art to push people mind about the truth. This scenario will be granted as a succesfully project when Core Mission is uncomplished.
+ Its bring spirits of core mission as leader of decentralized cryptocurrency and the one which solve thrilema. TRUC spread all facts that has been released and implemented it in such meme art to push people mind about the truth. This scenario will be granted as a succesfully project when Core Mission is acomplished.
