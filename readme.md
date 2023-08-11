@@ -4,7 +4,6 @@ TRUC bring spirits of core mission as ones of leaders in decentralized cryptocur
 
 TRUC try to spread the journeys and facts which has been released then applied and implemented it in such meme art and NFTs to push and open people minded about the truth. This scenario will be granted as succesfully project when Core mission was in acomplished stage.
 
-
 The Journey :
 - Build ✍️
 - Build
@@ -27,4 +26,5 @@ The Journey :
 <li>📨 email : trucfeb5@gmail.com</li>
 <li>📨 telegram : @truccs</li>
 <li>📨 twitter : @trucfeb5</li>
+  <li>© Coinmarketcap : @truecore</li>
 </ul>
